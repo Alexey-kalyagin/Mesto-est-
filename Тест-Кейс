@@ -1,0 +1,542 @@
+Сайт https://mesto-rest.ru
+Test-case
+cases	[]
+suites	
+0	
+id	1
+title	"Главная страница сайта"
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+suites	[]
+cases	
+0	
+id	1
+title	"Переходим на страницу Яндекс-карты, когда нажимаем кнопку [Показать на карте] в хеддере"
+description	null
+preconditions	"| Находимся на сайте https://mesto-rest.ru/ |\n| ----------------------------------------- |\n|"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	"1. Кликаем на кнопку [Показать на карте]"
+expected_result	"переходим на страницу Яндекс-карты"
+data	""
+steps	[]
+tags	[]
+params	[]
+1	
+id	2
+title	'Перезагрузка страницы, когда нажимаем на "Название ресторана" возвращает на главную страницу в хэддере'
+description	null
+preconditions	'Перезагрузка страницы, когда нажимаем на "Название ресторана" возвращает на главную страницу в хэддере'
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на "Название ресорана"'
+expected_result	"Перезагрузка страницы"
+data	""
+steps	[]
+tags	[]
+params	[]
+2	
+id	3
+title	"Появляется всплывающее окно с меню сайта при нажатии на меню сайта в хэддере"
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на "Меню сайта"'
+expected_result	"Появляется всплывающее окно с меню сайта"
+data	""
+steps	[]
+tags	[]
+params	[]
+3	
+id	4
+title	'Переход на страницу корзины с заказами при нажатии на кнопку "Корзина" в хэддере'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "Корзина"'
+expected_result	"Переходим на страницу корзины с заказами"
+data	""
+steps	[]
+tags	[]
+params	[]
+4	
+id	5
+title	'Переход на страницу ресторана группы "Вконтакте" при нажатии на кнопку "VK" в хэддере'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "VK"'
+expected_result	'Переходит на страницу ресторана группы "Вконтакте"'
+data	""
+steps	[]
+tags	[]
+params	[]
+5	
+id	6
+title	'Переход на страницу общения в "Whatsup" при нажатии на кнопку "Whatsup" в хэддере'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "Whatsup"'
+expected_result	'Переходит на страницу общения в "Whatsup'
+data	""
+steps	[]
+tags	[]
+params	[]
+6	
+id	7
+title	'Переход на страницу общения в "zoom", при нажатии на кнопку "Номер телефона" в хэддере'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	"1. Кликаем на кнопку с номером телефона"
+expected_result	'Переходит на страницу общения в "zoom"'
+data	""
+steps	[]
+tags	[]
+params	[]
+7	
+id	8
+title	'Появляется меню с подробным меню ресторана при пажатии на кнопку "Подробнее" в блоке под хэддером'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "Подробнее"'
+expected_result	"Появляется меню с подробным меню ресторана"
+data	""
+steps	[]
+tags	[]
+params	[]
+8	
+id	9
+title	"Переход на страницу карточки товара при нажатии на название блюда в карточке товар"
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Скроллим до блока "Меню доставки"'
+expected_result	'Появляется "Меню доставки"'
+data	""
+steps	[]
+1	
+position	2
+action	'1. Скроллим до блока "Меню доставки"'
+expected_result	"Переходим на страницу карточки товара"
+data	""
+steps	[]
+tags	[]
+params	[]
+9	
+id	10
+title	'Товар добавляется в Нашу корзину, при нажатии на кнопку [Добавить в карзину] в карточке товара в блоке "Меню доставки"'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Скроллим до блока "Меню доставки"'
+expected_result	'Появилось "Меню доставки"'
+data	""
+steps	[]
+1	
+position	2
+action	"2\\. Кликаем на кнопку \\[Добавить в корзину\\] в карточке товара"
+expected_result	"Товар добавляется в Нашу корзину"
+data	""
+steps	[]
+tags	[]
+params	[]
+10	
+id	11
+title	'Переходим на страницу яндекс-почты при нажатии на кнопку "Электронная почта" в футтере'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	"1. Скроллим до блока футтера"
+expected_result	"Появляется футтер"
+data	""
+steps	[]
+1	
+position	2
+action	'2\\. Кликаем на кнопку "Электронная почта"'
+expected_result	"Переходим на страницу для написания письма"
+data	""
+steps	[]
+tags	[]
+params	[]
+11	
+id	12
+title	`Переход на страницу общения 'Zoom' при нажиматии на кнопку "телефон" в футтере`
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/"
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	"1. Скроллим до блока футтера"
+expected_result	"Появляется футтер"
+data	""
+steps	[]
+1	
+position	2
+action	'2\\. Кликаем на кнопку "телефон"'
+expected_result	"Переходим на страницу общения 'Zoom'"
+data	""
+steps	[]
+tags	[]
+params	[]
+1	
+id	2
+title	"Окно Корзина"
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	13
+title	'Переходит на заглавную страницу сайта, при нажатие на "Название ресторана" из меню "корзина"'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'Кликаем на "Название ресторана"'
+expected_result	"Переходит на заглавную страницу сайта"
+data	""
+steps	[]
+tags	[]
+params	[]
+1	
+id	14
+title	'Появляется всплывающее окно, когда нажимаем на кнопку "Очистить корзину"'
+description	null
+preconditions	"1. Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины. \n\n2\\. В корзине есть товар"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "Очистить корзину"'
+expected_result	'Появляется всплывающе окно "вы действительно хотите удалить товар из корзины?"'
+data	""
+steps	[]
+tags	[]
+params	[]
+2	
+id	15
+title	"Товар удаляется из корзины, когда нажимаем на кнопку [Оk] в всплывающем окне"
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины. \nВ корзине есть товар"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "Очистить корзину"'
+expected_result	"Появляется всплывающее окно с уточнением"
+data	""
+steps	[]
+1	
+position	2
+action	"2\\. В всплывающем окне кликаем кнопку \\[Ok\\]"
+expected_result	"Товар удаляется из корзины"
+data	""
+steps	[]
+tags	[]
+params	[]
+3	
+id	16
+title	"Переход на главную страницу сайта при нажатии на кнопку [Продолжить покупки]"
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины. \nВ корзине есть товар"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "Продолжить покупки"'
+expected_result	"Переходим на главную страницу сайта"
+data	""
+steps	[]
+tags	[]
+params	[]
+4	
+id	17
+title	'Сумма заказа и количество товара увеличивается, когда кликаем на кнопку [+] в графе "Количество" в нашей корзине'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины. \nВ корзине есть товар"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'1. Кликаем на кнопку "+"'
+expected_result	"Сумма заказа и количество товара увеличивается"
+data	""
+steps	[]
+tags	[]
+params	[]
+5	
+id	18
+title	'Сумма заказа и количество товара уменьшается, когда кликаем на кнопку [-] в графе "Количество" в нашей корзине'
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины. \nВ корзине есть товар"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	'| 1\\. Кликаем на кнопку "\\-" |\n| ------------------------ |\n|'
+expected_result	"Сумма заказа и количество товара уменьшается"
+data	""
+steps	[]
+tags	[]
+params	[]
+6	
+id	19
+title	"Появляется всплывающее окно для оформления заказа, при нажатии на кнопку [Оформит заказ]"
+description	null
+preconditions	"Находимся на сайте https://mesto-rest.ru/ в меню нашей корзины. В корзине есть товар"
+postconditions	null
+priority	"high"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	
+0	
+position	1
+action	"1. Кликаем на кнопку [Оформить заказ]"
+expected_result	"Появляется всплывающее окно c анкетой для оформления заказа"
+data	""
+steps	[]
+tags	[]
+params	[]
