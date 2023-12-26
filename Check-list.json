@@ -1,0 +1,2335 @@
+cases	[]
+suites	
+0	
+id	1
+title	"Хэддер-лендинг"
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	1
+title	"Наименование сайта"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	2
+title	"Адрес ресторана"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	3
+title	"Кнопка [Показать на карте]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	4
+title	"Часы работы"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	5
+title	"Кнопка [Меню]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	6
+title	"Кнопка [Корзина]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+6	
+id	7
+title	"Кнопка [VK]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	3
+title	"Пространство под блоком Хедер"
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	8
+title	"Заставка с описанием акций ресторана"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	9
+title	"Кнопка [Забронировать стол]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	4
+title	'Блок "Меню доставки"'
+description	null
+preconditions	null
+suites	
+0	
+id	5
+title	'Раздел "Салаты"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	13
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	14
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	15
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	16
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	17
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	18
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	7
+title	'Раздел "Горячее"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	19
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	20
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	21
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	22
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	23
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	24
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	8
+title	'Раздел "Супы"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	25
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	26
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	27
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	28
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	29
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	30
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	9
+title	'Раздел "Бургеры"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	31
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	32
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	33
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	34
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	35
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	36
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	11
+title	'Раздел "Гриль"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	43
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	44
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	45
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	46
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	47
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	48
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	10
+title	'Раздел "Устрицы"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	37
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	38
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	39
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	40
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	41
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	42
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+6	
+id	12
+title	'Раздел "Гарнир"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	49
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	50
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	51
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	52
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	53
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	54
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+7	
+id	13
+title	'Раздел "Соусы"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	55
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	56
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	57
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	58
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	59
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	60
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+8	
+id	14
+title	'Раздел "Горячии закуски"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	61
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	62
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	63
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	64
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	65
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	66
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+9	
+id	15
+title	'Раздел "Холодные закуски"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	67
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	68
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	69
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	70
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	71
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	72
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+10	
+id	16
+title	'Раздел "Десерты"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	73
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	74
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	75
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	76
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	77
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	78
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+11	
+id	17
+title	'Раздел "Пицца"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	79
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	80
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	81
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	82
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	83
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	84
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+12	
+id	18
+title	'Раздел "Роллы"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	85
+title	'Заголовок раздела "Салаты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	86
+title	"В каждой карточке есть фотография"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	87
+title	"В каждой карточке есть название блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	88
+title	"В каждой карточке есть описание блюда и вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	89
+title	"В каждой карточке есть цена"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	90
+title	"В каждой карточке есть  кнопка [добавить в  корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+cases	
+0	
+id	10
+title	'Заголовок "Меню доставки"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	11
+title	"Меню доставки имеет разделы"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	12
+title	"В каждом разделе имются карточки блюд"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	19
+title	"Страница блюда"
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	91
+title	"На странице с блюдом есть фотография блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	92
+title	"На странице с блюдом есть наименование блюда"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	93
+title	"На странице с блюдом есть вес"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	94
+title	"На странице с блюдом есть цена товара"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	95
+title	"На странице с блюдом есть кнопка [Добавить в корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	96
+title	"На странице с блюдом есть каунтер с добавлением товара"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+6	
+id	97
+title	"Минимальное число в каунтере заказа - 1, максимальное 1000"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	20
+title	"Блок Футтер"
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	98
+title	'Наименование блока "Контакты"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	99
+title	'раздел "Электронная почта" с адресом электронной почты'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	100
+title	'раздел "Телефон" с контактным телефоном менеджера'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	101
+title	'раздел "Время работы" с графиком работы ресторана'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	102
+title	'раздел "О нас" с описанием ресторана'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	103
+title	"Карта с указанием места нахождения ресторана"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	21
+title	'Окно "Корзина"'
+description	null
+preconditions	null
+suites	[]
+cases	
+0	
+id	104
+title	'Если товаров нет, то надпись "Ваша корзина пуста"'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+1	
+id	105
+title	'При добавлении товара в корзину, на ярлычке "корзины" срабатывает каунтер'
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+2	
+id	106
+title	"Товар в корзине отображается в виде таблицы (столбцы таблицы: Товар, наименование, цена, количество, сумма, опции)"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+3	
+id	107
+title	"Есть кнопка [Продолжить покупку]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+4	
+id	108
+title	"Есть кнопка [Очистить корзину]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+5	
+id	109
+title	"Есть кнопка [Оформить заказ]"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
+6	
+id	110
+title	"При увеличении количества товара, сумма заказа увеличивается"
+description	null
+preconditions	null
+postconditions	null
+priority	"undefined"
+severity	"normal"
+type	"other"
+behavior	"undefined"
+automation	"is-not-automated"
+status	"actual"
+is_flaky	"no"
+layer	"unknown"
+milestone	null
+custom_fields	[]
+steps_type	"classic"
+steps	[]
+tags	[]
+params	[]
